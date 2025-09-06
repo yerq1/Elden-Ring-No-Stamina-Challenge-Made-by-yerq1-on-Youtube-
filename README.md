@@ -13,15 +13,22 @@ Program Files (x86) > Steam > steamapps > common > ELDEN RING > Game
 
 THIS WILL MAKE IT SAFE TO RUN THE CHEAT TABLE, DO NOT RUN THE CHEAT TABLE WITH ANTICHEAT / ONLINE MODE ON
 
-----------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Also, make sure you have cheat engine, I know the website looks sketchy but this is the official site if you do not have it already:
 https://www.cheatengine.org/
 
 THIS CHEAT TABLE WAS MADE ON CHEAT ENGINE VERSION 7.5, I am not sure how it works on other versions because I wasn't able to download 7.6 for whatever reason.
 
-----------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Anyways, once you download it, connect it to your game and enable both the staminaBlocker & flaskRegen & it should be working.
+Anyways, once you download it, connect it to your game (with the top left icon) and enable both the staminaBlocker & flaskRegen & it should be working.
 
 Enjoy!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+KNOWN BUGS:
+ - When FP is depleted, HP Flasks will not "heal" stamina
+ - Upon suffering the bleed status effect, this "heals" stamina
+ - (Totally a feature) The Flask of Wonderous Physick "heals" stamina
